@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 
-import "../styles/Palette.css"
-
+// Styles
+import "../styles/Palette.css";
+// Components
 import ColorBox from "./ColorBox.js";
 
 class Palette extends Component {

@@ -4,7 +4,7 @@ import React from "react";
 import seedPalettes from "./seedPalettes";
 
 // Components
-import Palette from "./Palette";
+import Palette from "./components/Palette";
 
 function App() {
   return (
